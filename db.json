@@ -15,7 +15,7 @@
   ],
   "courses":[
     {
-      "idItem":null,
+      "idItem":0,
       "nom":null,
       "magasin":null
     }
