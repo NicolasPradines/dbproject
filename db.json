@@ -2,39 +2,27 @@
   "listes": [
     {
       "id": 1,
-      "nom": "Nicolas",
-      "courses":[
-        {
-          "idItem":null,
-          "nom":null,
-          "magasin:null"
-        }
-      ]
+      "nom": "Nicolas"
     },
     {
       "id": 2,
-      "nom": "Wendy",
-      "courses":[
-        {
-          "idItem":null,
-          "nom":null,
-          "magasin":null
-        }
-      ]
+      "nom": "Wendy"
     },
     {
       "id": 3,
-      "nom": "Odile",
-      "courses":[
-        {
-          "idItem":null,
-          "nom":null,
-          "magasin":null
-        }
-      ]
+      "nom": "Odile"
     }
   ],
+  "courses":[
+    {
+      "idItem":null,
+      "nom":null,
+      "magasin":null,
+    }
+  ]
+  , 
   "profile": {
     "name": "typicode"
   }
 }
+
