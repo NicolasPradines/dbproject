@@ -1,0 +1,42 @@
+{
+  "listes": [
+    {
+      "id": 1,
+      "nom": "Nicolas",
+      "courses":[
+        {
+          "idItem":null,
+          "nom":null,
+          "magasin:null"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nom": "Wendy",
+      "courses":[
+        {
+          "idItem":null,
+          "nom":null,
+          "magasin":null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nom": "Odile",
+      "courses":[
+        {
+          "idItem":null,
+          "nom":null,
+          "magasin":null
+        }
+      ]
+    }
+  ],
+
+  "profile": {
+    "name": "typicode"
+  }
+}
+
